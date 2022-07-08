@@ -1,0 +1,4 @@
+PRODUCTION/
+__pycache__/
+*.spec
+data.json
